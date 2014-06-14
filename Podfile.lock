@@ -1,9 +1,9 @@
 PODS:
-  - AFNetworking (2.0.0-RC2):
+  - AFNetworking:
     - AFNetworking/Core
     - AFNetworking/UIKit+AFNetworking
-  - AFNetworking/Core (2.0.0-RC2)
-  - AFNetworking/UIKit+AFNetworking (2.0.0-RC2)
+  - AFNetworking/Core
+  - AFNetworking/UIKit+AFNetworking
   - ISO8601DateFormatter (0.6)
   - Mantle (1.2):
     - Mantle/extobjc
